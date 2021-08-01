@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>162742941908-hn6rj0j97pumkqbiv3lonvb04pqqaf9s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.162742941908-hn6rj0j97pumkqbiv3lonvb04pqqaf9s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6BoD6V7VvxlfZwTUe-HiGxCZ2Pf9erDE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>162742941908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Imagine.myApp</string>
+	<key>PROJECT_ID</key>
+	<string>imagine-51a37</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imagine-51a37.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:162742941908:ios:0ff3f6e7185537783fa341</string>
+</dict>
+</plist>
