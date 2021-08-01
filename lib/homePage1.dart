@@ -176,6 +176,7 @@ class _HomePage1State extends State<HomePage1> {
           child: postList.length == 0
               ? Center(child: new Text('No post Available...'))
               : ListView.builder(
+              reverse: true,
               padding: const EdgeInsets.fromLTRB(8, 8, 8, 0),
               itemCount: postList.length,
               itemBuilder: (_, index){
@@ -264,6 +265,7 @@ class _HomePage1State extends State<HomePage1> {
 
   Widget PostUI(String url, String desc, String category,)
   {
+
     return new GestureDetector(
       onDoubleTap: (){
         setState(() {
